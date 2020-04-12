@@ -1,0 +1,5 @@
+README.md file:
+Create custom image (10 points):
+Run TimeServer in custom image (5 points):
+Demonstrate fault tolerance using client (10 points):
+Grade:  /25
